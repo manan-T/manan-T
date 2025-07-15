@@ -126,12 +126,12 @@ Genetic algorithm-based self-driving car simulation in Unreal Engine.
 
 - **Programming Languages:** Python, C++, Go, Java, JavaScript, TypeScript, C, C#, R, SQL, Ruby
 - **Web & App Frameworks:** React.js, Next.js, Node.js, Express, Django, Flask, Angular, Ruby on Rails, GraphQL, REST APIs
-- **Machine Learning & AI:** scikit-learn, TensorFlow, Keras, PyTorch, pandas, NumPy, RNN, MLP, GANs, CUDA, Azure ML, OpenAI APIs, Google Gemini, FAISS
+- **Machine Learning & AI:** scikit-learn, TensorFlow, Keras, PyTorch, pandas, NumPy, RNN, MLP, GANs
 - **Networking & Protocols:** TCP/IP, HTTP/1.1 & HTTP/2, BitTorrent, DNS, DHCP, VLAN, STP, OMP, OSPF, BGP, ns-3
 - **Cloud & Infra:** AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Kafka, Prometheus, Grafana, CI/CD
 - **DevOps & Tools:** Git, Linux, GitHub Actions, Jupyter, Streamlit, Co-pilot, Pydantic
-- **Database & Data Engineering:** PostgreSQL, MongoDB, MySQL, Redis, SQLAlchemy, data normalization, batch inserts, scalable ingestion pipelines
-- **Visualization & Analytics:** Matplotlib, Seaborn, Tableau, custom React dashboards, real-time filtering UIs
+- **Database & Data Engineering:** PostgreSQL, MongoDB, DynamoDB, MySQL, Redis, SQLAlchemy
+- **Visualization & Analytics:** Matplotlib, Seaborn, Tableau
 
 ---
 
