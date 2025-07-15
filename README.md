@@ -76,6 +76,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 💻 CodeCoach AI
+- AI-powered code editor with intelligent suggestions, real-time analysis, and multi-language support to enhance coding productivity and improve developer experience.
+- Designed to assist developers with faster debugging, smarter autocompletion, and seamless integration of AI into daily workflows.
+- [Repository →](https://github.com/manan-T/CodeCoach-ai)
+
+---
+
 ### 🌐 Internet Protocols (Networking)
 - Simulated file transfers using HTTP/1.1, HTTP/2, and BitTorrent to analyze throughput and protocol overhead.
 - Implemented TCP Cubic and DCTCP in ns-3 to study congestion control behavior in dumbbell topologies.
