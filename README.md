@@ -83,6 +83,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 🛍️ Store Sales Time-Series Forecasting
+
+- Developed a time-series sales forecasting model using a Multi-Layer Perceptron (MLP) with 3 hidden layers and ReLU activations, reducing RMSE from ~994 (baseline linear regression) to ~440.
+- Incorporated features like oil prices and public holidays, capturing socio-economic effects on sales in Ecuador to improve prediction accuracy.
+- - [Repository →]([https://github.com/manan-T/Expense_Tracker](https://docs.google.com/presentation/d/1xjCwjkiVqfYkyIWrv0nRfyB7OIKEclyy2qpJqvQtQ28/edit?slide=id.g2ced88a0c1f_1_41#slide=id.g2ced88a0c1f_1_41))
+
+---
 
 ## 🌟 Other Notable Projects
 
