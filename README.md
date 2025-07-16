@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### ⚡ Refactored GraphQL API
 - Refactored a Flask-based GraphQL API, increasing query efficiency by 25% and improving reliability to 99%.
 - Developed a modern TypeScript React frontend for dynamic GitHub insights and real-time filtering.
-- [Repository →](https://github.ncsu.edu/krajesh/CSC_ECE_517_Fall2024_Program_2/tree/bugfixes)
+- [Repository →](https://github.com/manan-T/GitHub_Miner)
 
 ---
 
@@ -73,6 +73,14 @@ Here are some ideas to get you started:
 - Designed a high-performance React.js web app for real-time expense tracking with advanced filtering and visual insights.
 - Optimized backend Express.js API with MongoDB, reducing data retrieval time by 30%.
 - [Repository →](https://github.com/manan-T/Expense_Tracker)
+
+---
+
+### 📚 Online Book Shopping System
+- Full-stack Online Book Shopping System built using Ruby on Rails and PostgreSQL.
+- Users can browse, purchase books, leave reviews, and manage their profiles.
+- Admin has full access to manage books, users, orders, and reviews.
+- [Repository →](https://github.com/manan-T/Online-Book-Shopping-System)
 
 ---
 
