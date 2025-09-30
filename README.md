@@ -48,6 +48,15 @@ Here are some ideas to get you started:
 
 ## 💡 Projects
 
+### 📄 LogPress
+- Developed a distributed logging framework for large-scale, unstructured workloads, simulating real-world system logs.
+- Designed a pattern-aware compression engine with dictionary encoding, cutting storage overhead while keeping fast decompression.
+- Implemented an index-free querying mechanism using schema-aware grouping and time-based partitioning for high-speed retrieval.
+- Unified multiple approaches (chunk-based, clustering, distributed with Docker, parallel search) into a single repository for experimentation and benchmarking.
+- [Repository →](https://github.com/manan-T/Log_Press/tree/main)
+
+---
+
 ### 📄 CSV-Uploader
 - Built a distributed CSV ingestion service in Go capable of handling 10GB+ files, with API-based uploads, data normalization, and efficient batch inserts.
 - Used PostgreSQL for robust storage and Docker for easy, scalable deployments.
