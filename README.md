@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 👋 Hi, I'm Manan Tiwari!
 
 🎓 Master’s in Computer Science from North Carolina State University, May 2025.  
@@ -166,6 +167,8 @@ Genetic algorithm-based self-driving car simulation in Unreal Engine.
 - **Visualization & Analytics:** Matplotlib, Seaborn, Tableau
 
 ---
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=manan-T)
 
 ## 📫 Let's Connect!
 
